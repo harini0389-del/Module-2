@@ -12,8 +12,10 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+<img width="425" height="202" alt="image" src="https://github.com/user-attachments/assets/b39f9fd2-ab14-4966-954c-2fb94b098956" />
 
 ## Output
+<img width="912" height="416" alt="image" src="https://github.com/user-attachments/assets/513cceee-d640-4f23-96d4-34123c550086" />
 
 ## Result
+The program to return two values modulo is successful.
