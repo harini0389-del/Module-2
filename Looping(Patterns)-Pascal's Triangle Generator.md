@@ -1,16 +1,16 @@
-🔺 Looping(Patterns)-Pascal's Triangle Generator in Python
+## 🔺 Looping(Patterns)-Pascal's Triangle Generator in Python
 
 This project demonstrates a simple Python program to generate **Pascal’s Triangle**, where the number of rows is provided by the user.
 
 ---
 
-🎯 Aim
+## 🎯 Aim
 
 To write a Python program that generates **Pascal's Triangle** using numbers. The number of rows is accepted from the user.
 
 ---
 
-🧠 Algorithm
+## 🧠 Algorithm
 
 1. Start the program.
 2. Input the number of rows from the user.
@@ -26,13 +26,13 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 
 ---
 
-🧪 Program
+## 🧪 Program
 
 <img width="590" height="172" alt="image" src="https://github.com/user-attachments/assets/a77b5d43-f744-434c-86ef-01e470deaab7" />
 
-Sample Output
+## Sample Output
 
 <img width="497" height="272" alt="image" src="https://github.com/user-attachments/assets/ff787bc4-5ea2-4be9-904f-bb45f7edabdf" />
 
-Result
+## Result
 Thus, the program has been successfully executed
